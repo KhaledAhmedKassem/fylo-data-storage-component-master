@@ -27,7 +27,6 @@ body {
 .boxes {
   display: flex;
   width: 900px;
-
 }
 .boxes .box-one {
   flex-basis: 30%;
